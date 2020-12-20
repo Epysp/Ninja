@@ -3,16 +3,11 @@ from random import randint
 
 
 
-print("Victor ©")
-print("=" *40)
-print("ESCOLA DJALMA MATHEUS SANTANA")
-print("=" *40)
-
 aluno = input("Qual Seu Nome Aluno ?: ")
 
-if aluno == "victor":
+if aluno == "Epy":
 	print("Ah Sim Meu Criador")
-elif aluno == "Victor":
+elif aluno == "epy":
 	print("Ah Sim Meu Criador")
 else:
 	print(f" {aluno} ,Seja Bem Vindo")
